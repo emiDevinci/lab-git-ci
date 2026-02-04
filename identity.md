@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: 
-* last_name: 
+* first_name: Emilie
+* last_name: Poupat
